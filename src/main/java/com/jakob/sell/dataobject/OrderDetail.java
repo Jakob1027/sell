@@ -38,7 +38,7 @@ public class OrderDetail {
     /** 商品id. */
     private String productId;
 
-    /** 商品名字id. */
+    /** 商品名字. */
     private String productName;
 
     /** 商品价格. */
